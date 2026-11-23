@@ -182,7 +182,7 @@ Through this project, I explored:
 
 ## 👨‍💻 Author
 
-**Aritra Pal**
+** Aritra Pal**
 
 Cyber crime investigation and fraud analyser | Ethical Hacking Enthusiast
 
