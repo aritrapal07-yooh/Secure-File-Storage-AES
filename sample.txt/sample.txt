@@ -1,0 +1,2 @@
+This is my AES encryption project.
+My file is protected using Python.
